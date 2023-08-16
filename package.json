@@ -1,0 +1,24 @@
+{
+  "name": "websocket_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Navoos/websocket_training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Navoos/websocket_training/issues"
+  },
+  "homepage": "https://github.com/Navoos/websocket_training#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "ws": "^8.13.0"
+  }
+}
